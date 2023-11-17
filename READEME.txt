@@ -1,0 +1,6 @@
+To view and run the exercises:
+Step 1: Download the repository to local 
+Step 2: Go to index.html
+Step 3: Find   <script type="text/javascript" src=""></script>
+Step 4: Input the name of the exercises you want to view in src"". For example: 
+src"bai1.js" to view exercise 1
